@@ -1,3 +1,8 @@
+# Distribución de Windows ligero
+Sistemas Operativos - Grado de Desarrollo Full-Stack
+
+Itzy De la Rosa -- [https://github.com/itzy-4Qunn7]
+
 # Windows_Stark
 optimización de una ISO Windows ligero para la entrega final del primer semestre de sistemas operativos, La entrega estará compuesta de las siguientes partes:
 1.Entrega del producto.
